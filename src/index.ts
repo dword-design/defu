@@ -2,7 +2,7 @@ import { createDefu } from 'defu';
 
 export default createDefu((obj, key, value): boolean => {
   if (Array.isArray(obj[key]) && Array.isArray(value)) {
-    (obj[key] as unknown[]).push(...(value as unknown[]));
+    obj[key].push(...(value as unknown[])); // TODO: Type cast shouldn't be necessary
     return true;
   }
 
