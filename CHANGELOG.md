@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/defu/compare/v1.0.2...v1.0.3) (2025-07-13)
+
+
+### Bug Fixes
+
+* createDefu ([3b2091b](https://github.com/dword-design/defu/commit/3b2091b8fb918f85b7c8fa9d7d13f06c4e6a2d0d))
+
 ## [1.0.2](https://github.com/dword-design/defu/compare/v1.0.1...v1.0.2) (2025-07-13)
 
 
