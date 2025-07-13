@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/defu/compare/v1.0.1...v1.0.2) (2025-07-13)
+
+
+### Bug Fixes
+
+* polishing ([6c78394](https://github.com/dword-design/defu/commit/6c78394b075e9207b06b0d92e71e073be8455749))
+
 ## [1.0.1](https://github.com/dword-design/defu/compare/v1.0.0...v1.0.1) (2025-07-13)
 
 
