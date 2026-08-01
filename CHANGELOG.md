@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/dword-design/defu/compare/v1.0.3...v2.0.0) (2026-08-01)
+
+
+### Bug Fixes
+
+* update config files ([67e8900](https://github.com/dword-design/defu/commit/67e8900467506edc883788461450645225ec223e))
+* update dependency @dword-design/base to v16 ([#7](https://github.com/dword-design/defu/issues/7)) ([006a632](https://github.com/dword-design/defu/commit/006a63283a6376a13f2fec8ada9077b0a80b3e18))
+
+
+### BREAKING CHANGES
+
+* node.js >= 22
+
 ## [1.0.3](https://github.com/dword-design/defu/compare/v1.0.2...v1.0.3) (2025-07-13)
 
 
