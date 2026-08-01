@@ -14,8 +14,8 @@ test.describe('default', () => {
 
 test.describe('createDefu', () => {
   test('merger', () => {
-    const defu = createDefu((obj, key, value) => {
-      obj[key] = value;
+    const defu = createDefu((object, key, value) => {
+      object[key] = value;
       return true;
     });
 
@@ -23,9 +23,9 @@ test.describe('createDefu', () => {
   });
 
   test('array', () => {
-    const defu = createDefu((obj, key, value) => {
+    const defu = createDefu((object, key, value) => {
       if (key === 'foo') {
-        obj[key] = value;
+        object[key] = value;
         return true;
       }
 
